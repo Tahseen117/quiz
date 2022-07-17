@@ -9,6 +9,7 @@ for q in question_data:
 
 question_list= QuizBrain(question_bank)
 
+print("\n")
 while question_list.still_has_question():
     question_list.next_question()
 
