@@ -27,3 +27,5 @@ Your score is :2/12
 4:The total surface area of a human lungs is the size of a football pitch.("True or False"):
 
 ```
+
+### To add more questions in databse you may this link: https://opentdb.com/api_config.php
