@@ -28,4 +28,4 @@ Your score is :2/12
 
 ```
 
-### To add more questions in databse you may use this link: https://opentdb.com/api_config.php
+### To add more questions in databse you may use [THIS](https://opentdb.com/api_config.php) link.
